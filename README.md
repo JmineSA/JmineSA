@@ -85,12 +85,13 @@ I approach data science problems with a structured framework:
 
 ---
 
-## 🤝 Let's Collaborate! 🚀
+## 🤝 Let's Collaborate! 🚀  
 
-Interested in collaborating on **data science projects**, particularly in **predictive modeling, MLOps, or web scraping**?  
-Let's connect and explore exciting opportunities to work together!  
+Interested in collaborating on **data science projects**, especially in **predictive modeling, MLOps, or web scraping**?  
+Let's connect and build something awesome together!  
 
-![Collaboration](https://media.giphy.com/media/fSAqSlRb0Wl3pPqvp9/giphy.gif)
+![Teamwork Animation](https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif)  
 
-[![](https://visitcount.itsvg.in/api?id=JmineSA&icon=5&color=6)](https://visitcount.itsvg.in)
+🔗 **Let's Connect**: [![Visitor Count](https://visitcount.itsvg.in/api?id=JmineSA&icon=6&color=3)](https://visitcount.itsvg.in)  
+
 
