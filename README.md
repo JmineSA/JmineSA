@@ -37,10 +37,47 @@
 
 ## 🛠 Projects:
 
-- **Risk Assessment & Loan Approval Prediction** 💳: Built predictive models using a synthetic dataset of 20,000 records to assess financial risk and loan approval. Developed classification models (XGBoost, Decision Tree, Random Forest) achieving up to 99.67% accuracy and a regression model for risk score prediction. Analyzed feature importance, model performance, and opportunities for improvement, such as addressing heteroscedasticity in regression.
-- **Customer Churn Prediction** 📉: Developed a predictive model to identify customers at high risk of churn using a dataset of customer demographics, usage patterns, and support interactions. Implemented decision tree and logistic regression algorithms, achieving an 85% accuracy rate. The model was deployed as a web application, enabling the marketing team to proactively target at-risk customers with personalized retention offers.
-- **Video Success Prediction** 🎥: Analyzed video data (views, likes, comments) to predict success using regression models. Achieved 94% accuracy . The model explains 94% of the variation in video performance, which means it does a great job predicting which videos will perform well.
-- **Web Scraping Automation** 🌍: Automated data collection from e-commerce websites using Python's BeautifulSoup and Scrapy. Implemented data cleaning and transformation pipelines, delivering structured datasets for market analysis. [Repo: [Link to Repo]] Data: E-commerce product data.
+## 🛠 Projects:
+
+- **Industrial Power Consumption Forecasting & Optimization** ⚡:  
+  Developed a predictive analytics solution for industrial power consumption in Tetouan City.  
+  - Built a Random Forest model with **97.5% accuracy (R² score)** for forecasting power demand.  
+  - Integrated business intelligence features: SHAP value explanations, anomaly detection, forecasting visualization, and prediction history.  
+  - Deployed with an interactive **Gradio web app**, featuring dashboards, diagnostics, and real-time insights.  
+  - Supported strategic energy planning, cost reduction, and efficiency improvements.  
+  [Project Repo: *https://github.com/JmineSA/Power-Consumption-Forecasting-with-Predictive-Analytics*]
+
+- **Municipal Waste Management Cost Prediction** 🗑️📊:  
+  Developed a machine learning solution to predict municipal waste management costs, aiding governments in budget optimization and sustainability planning.  
+  - Applied regression and ensemble models (Gradient Boosting, Random Forest), achieving **R² score of 0.681 ± 0.032** on cross-validation.  
+  - Identified top cost drivers: **Municipal Budgets (47.8%)**, **GDP per Capita (22.1%)**, **Altitude (15.4%)**.  
+  - Designed interactive **Power BI dashboards** for stakeholder reporting and analysis.  
+  - Implemented advanced feature selection to address overfitting and improve model robustness.  
+  - Key Strengths:  
+    ✅ Captures non-linear relationships in cost drivers  
+    ✅ Robust to budget outliers  
+  - Tech Stack: **Python (Pandas, Scikit-learn, XGBoost)**, **Power BI**, **SQL**, **Jupyter**
+    [Project Repo: *https://github.com/JmineSA/Municipal-Waste-Cost-Prediction*]
+
+- **Risk Assessment & Loan Approval Prediction** 💳:  
+  Built predictive models using a synthetic dataset of 20,000 records to assess financial risk and loan approval. Achieved up to **99.67% accuracy** using classification models and created regression models for risk scoring.  
+
+- **Customer Churn Prediction** 📉:  
+  Developed a predictive model for customer churn with **85% accuracy**, deployed via a web application. Enabled proactive retention strategies by identifying high-risk customers.  
+
+- **Video Success Prediction** 🎥:  
+  Built a regression model to predict video performance with **94% accuracy**, analyzing factors like views, likes, and comments. Provided insights on video success drivers.  
+
+- **Web Scraping Automation** 🌍:  
+  Automated data collection from e-commerce platforms using Python's **BeautifulSoup** and **Scrapy**, transforming raw data into structured datasets for market analysis.  
+
+---
+
+## 🚀 Currently Adding:
+- Deployment of **Interactive Gradio Apps** for Machine Learning projects.  
+- Enhanced use of **business reporting dashboards**, SHAP visualizations, and real-time forecasting tools.  
+
+
 
 ---
 
