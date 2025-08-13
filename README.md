@@ -36,6 +36,17 @@
 
 ## 🚀 Featured Projects
 
+### 📞 Telecom Customer Churn Intelligence  
+
+**🛠 Technologies:** `XGBoost` · `SMOTE` · `Feature Engineering` · `Model Evaluation`  
+
+- 📊 Applied **SMOTE** to balance classes and boost recall for minority churn cases  
+- 🔍 Identified key churn drivers using **feature importance** analysis  
+- 🚀 Achieved **ROC-AUC of 0.89** with robust cross-validation  
+
+[![View on GitHub](https://img.shields.io/badge/View_Repo-181717?logo=github&logoColor=white)](https://github.com/JmineSA/Telecom_Customer_Churn_Intelligence)
+
+
 ### ⚡ Industrial Power Consumption Forecasting
 **Technologies:** Python, Random Forest, SHAP, Gradio  
 - Achieved **97.5% R² score** in predicting power demand
