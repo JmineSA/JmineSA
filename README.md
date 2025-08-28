@@ -1,8 +1,6 @@
 # 💫 About Me:
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1E90FF&center=true&vCenter=true&width=700&lines=👋+Hi,+I'm+Lesiba+James+Kganyago;Data+Science+Professional;Informatics+Graduate;Machine+Learning+Enthusiast;Turning+Data+Into+Business+Value!" alt="Typing SVG">
-</h1>
+
 
 🔭 **Currently:** Building end-to-end data solutions and expanding my MLOps expertise  
 🌱 **Learning:** Advanced ML techniques, AWS deployment, and Power BI analytics  
