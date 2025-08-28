@@ -41,26 +41,34 @@
 - 🚀 Achieved **ROC-AUC of 0.89** with robust cross-validation  
 [![View on GitHub](https://img.shields.io/badge/View_Repo-181717?logo=github&logoColor=white)](https://github.com/JmineSA/Telecom_Customer_Churn_Intelligence)
 
-### ⚡ Industrial Power Consumption Forecasting
-**Technologies:** Python, Random Forest, SHAP, Gradio  
-- Achieved **97.5% R² score** in predicting power demand  
-- Built interactive dashboard with anomaly detection  
-- Enabled strategic energy planning for cost reduction  
+---
+
+### ⚡ Industrial Power Consumption Forecasting  
+**🛠 Technologies:** Python, Random Forest, SHAP, Gradio  
+- 📈 Achieved **97.5% R² score** in predicting power demand  
+- 🔎 Built **interactive dashboard** with anomaly detection  
+- ⚡ Enabled **strategic energy planning** for cost reduction  
 [![View on GitHub](https://img.shields.io/badge/View_Repo-181717?logo=github&logoColor=white)](https://github.com/JmineSA/Power-Consumption-Forecasting-with-Predictive-Analytics)
 
-### 🗑️ Municipal Waste Cost Prediction
-**Technologies:** Gradient Boosting, Power BI, Feature Engineering  
-- Identified key cost drivers (Municipal Budgets 47.8%, GDP 22.1%)  
-- Achieved **0.681 R² score** with robust cross-validation  
-- Created executive dashboards for budget planning  
+---
+
+### 🗑️ Municipal Waste Cost Prediction  
+**🛠 Technologies:** Gradient Boosting, Power BI, Feature Engineering  
+- 🏛️ Identified **key cost drivers** (Municipal Budgets 47.8%, GDP 22.1%)  
+- 📊 Achieved **0.681 R² score** with robust cross-validation  
+- 📈 Created **executive dashboards** for budget planning  
 [![View on GitHub](https://img.shields.io/badge/View_Repo-181717?logo=github&logoColor=white)](https://github.com/JmineSA/Municipal-Waste-Cost-Prediction)
 
-### 💳 Fraud Detection System – FraudGuard AI
-**Technologies:** Python, LightGBM, Gradio, Power BI, Feature Engineering  
-- Achieved **97.04% accuracy** in real-time fraud detection  
-- Developed interactive dashboards and KPIs for executive insights  
-- Enabled geographic, device, and customer risk analysis for actionable prevention strategies
-- [![View on GitHub](https://img.shields.io/badge/View_Repo-181717?logo=github&logoColor=white)](https://github.com/JmineSA/Financial-Fraud-Modeling-for-LOL-Bank)
+---
+
+### 💳 Fraud Detection System – FraudGuard AI  
+**🛠 Technologies:** Python, LightGBM, Gradio, Power BI, Feature Engineering  
+- 🔒 Achieved **97.04% accuracy** in real-time fraud detection  
+- 📊 Developed **interactive dashboards & KPIs** for executive insights  
+- 🌍 Enabled **geographic, device, and customer risk analysis** for prevention strategies  
+- 🚀 Deployed live on Hugging Face → [FraudGuard AI Demo](https://huggingface.co/spaces/jmine/FraudGuard_AI)  
+[![View on GitHub](https://img.shields.io/badge/View_Repo-181717?logo=github&logoColor=white)](https://github.com/JmineSA/Financial-Fraud-Modeling-for-LOL-Bank)
+
 
 
 ---
