@@ -61,8 +61,8 @@
 **Technologies:** Python, LightGBM, Gradio, Power BI, Feature Engineering  
 - Achieved **97.04% accuracy** in real-time fraud detection  
 - Developed interactive dashboards and KPIs for executive insights  
-- Deployed live on **Hugging Face Spaces** → [FraudGuard AI Demo](https://huggingface.co/spaces/jmine/FraudGuard_AI)  
 - Enabled geographic, device, and customer risk analysis for actionable prevention strategies
+- [![View on GitHub](https://img.shields.io/badge/View_Repo-181717?logo=github&logoColor=white)](https://github.com/JmineSA/Financial-Fraud-Modeling-for-LOL-Bank)
 
 
 ---
