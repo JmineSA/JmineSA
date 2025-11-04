@@ -3,7 +3,7 @@
 
 
 🔭 **Currently:** Building end-to-end data solutions and expanding my MLOps expertise  
-🌱 **Learning:** Advanced ML techniques, AWS deployment, and Power BI analytics  
+🌱 **Learning:** Advanced ML techniques  
 💬 **Ask me about:** Predictive modeling, data storytelling, and Python automation  
 ⚡ **Fun fact:** I approach data problems like detective cases - following clues to uncover insights  
 
