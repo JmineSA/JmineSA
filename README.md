@@ -45,7 +45,7 @@
 
 ### ⚡ Industrial Power Consumption Forecasting  
 **🛠 Technologies:** Python, Random Forest, SHAP, Gradio  
-- 📈 Achieved **97.5% R² score** in predicting power demand  
+- 📈 Achieved **75% R² score** in predicting power demand  
 - 🔎 Built **interactive dashboard** with anomaly detection  
 - ⚡ Enabled **strategic energy planning** for cost reduction  
 [![View on GitHub](https://img.shields.io/badge/View_Repo-181717?logo=github&logoColor=white)](https://github.com/JmineSA/Power-Consumption-Forecasting-with-Predictive-Analytics)
