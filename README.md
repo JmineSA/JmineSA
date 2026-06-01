@@ -11,7 +11,7 @@
 |---------|--------------|--------|
 | Music studio revenue & utilization | Revenue forecasting + booking demand + retention models | 8% pricing accuracy improvement, 15% reduction in scheduling gaps, 84% precision identifying churn risk |
 | Butcher shop conversions | A/B testing framework | 15% increase in conversions via product bundling |
-| Hospital wait times (UbuntuCare) | XGBoost prediction system | R²=0.62, MAE=134 mins → R54.1M potential operational savings |
+| Hospital wait times (UbuntuCare) | XGBoost prediction system | R²=0.62, MAE=134 mins → identified R54.1M potential operational savings |
 
 ---
 
@@ -27,16 +27,14 @@
 
 **Tech stack:** Databricks, PySpark, Scikit-learn, XGBoost, MLflow, SQL, Power BI
 
-**Impact:** Better revenue planning + resource allocation + client retention
-
 ---
 
 ### Local Butcher Shop – Data Analytics Consultant (2024)
 
 - Designed + executed A/B testing framework → product bundling increased conversions by **15%**
-- Analyzed sales data using SQL + Python → inventory management recommendations
+- Analyzed sales data using SQL + Python → provided data-driven inventory management recommendations
 
-**Tech:** Python, SQL, statistical testing, data visualization
+**Tech stack:** Python, SQL, statistical testing (t-tests, chi-square), data visualization
 
 ---
 
@@ -44,22 +42,32 @@
 
 ### UbuntuCare – Wait Time Prediction System
 
-- Built XGBoost model: **R²=0.62, MAE=134 mins** forecasting patient wait times
-- Identified key drivers: demographics, facility capacity, clinical risk factors
-- **Estimated financial impact:** R54.1M potential savings via staffing optimization
+- Built XGBoost model: **R²=0.62, MAE = 134 minutes** forecasting patient wait times
+- Analyzed patient flow data to identify key drivers: demographics, facility capacity, clinical risk factors
+- **Identified opportunity:** Up to R54.1M in potential annual savings through staffing optimization and process improvements
 
-**Tech:** Python, XGBoost, Pandas, Scikit-learn
+**Tech stack:** Python, XGBoost, Pandas, Scikit-learn, statistical analysis
 
 ---
 
 ## Technical Competencies (proven via above)
 
-- **Modeling:** Regression, Time-series, Classification, XGBoost, Random Forest
-- **Tools:** Python, SQL, Databricks, PySpark, MLflow, Power BI
-- **Practices:** A/B testing, feature engineering, cross-validation, business metric alignment
+| Capability | Tools & Methods |
+|------------|----------------|
+| **Modeling** | Regression, Time-series, Classification, XGBoost, Random Forest, LightGBM |
+| **Data engineering** | SQL, PySpark, Databricks, feature engineering, ETL pipelines |
+| **Experimentation** | A/B testing, statistical hypothesis testing, causal inference basics |
+| **Visualization & BI** | Power BI, Matplotlib, Seaborn, Plotly, Gradio |
+| **MLOps & deployment** | MLflow, model versioning, Hugging Face Spaces, basic monitoring |
 
 ---
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/lesiba-kganyago-a39b302b0/) | [GitHub](https://github.com/JmineSA) | lesibajmine@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lesiba-kganyago-a39b302b0/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JmineSA)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lesibajmine@gmail.com)
+
+---
+
+*Open to data science roles where I can turn models into revenue, utilization, or retention improvements.*
