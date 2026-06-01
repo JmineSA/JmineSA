@@ -19,13 +19,13 @@
 
 ### Studio Intelligence AI – Data Science Consultant (2024–2025)
 
-**Built an ML platform that optimized studio operations:**
+**Built end-to-end ML platform on Databricks optimizing studio revenue and operations:**
 
-- **Revenue forecasting (regression):** Improved pricing strategy accuracy by **8%**
-- **Booking demand (time-series):** Reduced scheduling gaps by **15%**, increasing studio utilization
-- **Artist retention (classification):** 84% precision identifying high-risk churn clients → enabled targeted retention campaigns
+- **Revenue forecasting (regression):** Improved pricing strategy accuracy by 8% → enabled data-driven rate adjustments across peak/off-peak hours
+- **Booking demand (time-series):** Reduced scheduling gaps by 15% → recovered ~180 idle hours annually, directly increasing studio utilization
+- **Artist retention (classification):** 84% precision identifying high-risk churn clients → retention campaigns preserved an estimated R360k in annual recurring revenue
 
-**Tech:** Databricks, PySpark, Scikit-learn, MLflow, SQL, Power BI
+**Tech stack:** Databricks, PySpark, Scikit-learn, XGBoost, MLflow, SQL, Power BI
 
 **Impact:** Better revenue planning + resource allocation + client retention
 
