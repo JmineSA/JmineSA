@@ -2,24 +2,25 @@
 
 ### Data Scientist | Predictive Analytics | Business Intelligence
 
-I am a Data Scientist focused on using **data, analytics, and predictive modelling to solve business problems**.
+I build data analytics and machine learning solutions that connect **customer behaviour, revenue patterns and operational challenges to business decisions**.
 
-My work focuses on turning raw data into actionable insights that support:
+My focus is on developing practical systems that go beyond model performance to identify opportunities, quantify business risks and support better decision-making.
 
-* 📈 Revenue optimisation
-* 👥 Customer intelligence and retention
-* ⚙️ Operational efficiency
-* 📊 Data-driven decision-making
+**Areas of focus**
+- Revenue optimisation and forecasting
+- Customer analytics, segmentation and retention
+- Operational efficiency and demand planning
+- Machine learning and decision-support systems
 
 ---
 
 ## 🎯 Business Impact
 
-| Business Problem                          | Solution                                                              | Impact                                                                                                                                                            |
-| ----------------------------------------- | --------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 🎵 Music studio revenue & utilisation     | Revenue forecasting, booking demand forecasting & retention modelling | Improved pricing strategy accuracy by **8%**, reduced scheduling gaps by **15%**, and achieved **84% precision** identifying churn risk                           |
-| 🥩 Butcher shop conversions               | A/B testing and sales analysis                                        | Increased conversions by **15%** through product bundling                                                                                                         |
-| 📶 Telecom consumption & network planning | Consumption forecasting, customer segmentation & revenue analysis     | Identified **573 high-value Revenue Drivers**, **R32.8K potential revenue opportunity**, and a **255.7% increase in forecasting error during network congestion** |
+| Business Problem | Approach | Outcome |
+|---|---|---|
+| 🎵 Music studio revenue and utilisation | Revenue forecasting, booking demand forecasting and retention modelling | Improved pricing strategy accuracy by **8%**, reduced scheduling gaps by **15%**, and achieved **84% precision** in identifying churn risk |
+| 🥩 Retail conversion optimisation | A/B testing and sales analysis | Increased conversions by **15%** through product bundling |
+| 📶 Telecom consumption forecasting | Predictive modelling, error analysis and revenue opportunity assessment | Achieved a test-set **R² of 0.77** and identified estimated revenue and network allocation opportunities using simulated data |
 
 ---
 
@@ -29,100 +30,113 @@ My work focuses on turning raw data into actionable insights that support:
 
 **2024–2025**
 
-Built an end-to-end analytics and machine learning solution to support revenue and operational decision-making.
+Developed an analytics and machine learning solution to support revenue management, studio utilisation and customer retention.
 
-* 📈 **Revenue forecasting:** Improved pricing strategy accuracy by **8%**, supporting data-driven pricing decisions across peak and off-peak periods.
-* 📅 **Booking demand forecasting:** Reduced scheduling gaps by **15%**, identifying opportunities to improve studio utilisation and reduce idle capacity.
-* 👥 **Artist retention modelling:** Achieved **84% precision** in identifying high-risk churn clients, supporting targeted retention strategies and an estimated **R360K in annual recurring revenue protection**.
+- **Revenue forecasting:** Improved pricing strategy accuracy by **8%**, supporting more informed pricing decisions across peak and off-peak periods.
+- **Booking demand forecasting:** Reduced scheduling gaps by **15%**, helping identify opportunities to improve utilisation and reduce idle capacity.
+- **Artist retention modelling:** Achieved **84% precision** in identifying high-risk clients, supporting targeted retention strategies.
+- **Revenue protection:** Estimated potential annual recurring revenue protection of **R360K** through improved churn-risk identification.
 
-**Tech Stack:** `Databricks` · `PySpark` · `Python` · `Scikit-learn` · `XGBoost` · `MLflow` · `SQL` · `Power BI`
-
----
+**Tech stack:** `Python` · `SQL` · `Databricks` · `PySpark` · `Scikit-learn` · `XGBoost` · `MLflow` · `Power BI`
 
 ### 🥩 Local Butcher Shop — Data Analytics Consultant
 
 **2024**
 
-* Designed and executed an **A/B testing framework** that increased conversions by **15%** through product bundling.
-* Analysed sales and customer data using **Python and SQL** to identify purchasing patterns and provide inventory management recommendations.
+- Designed and analysed an **A/B testing framework** that increased conversions by **15%** through product bundling.
+- Analysed sales and customer data using Python and SQL to identify purchasing patterns.
+- Translated findings into recommendations for product bundling and inventory management.
 
-**Tech Stack:** `Python` · `SQL` · `Statistical Testing` · `Pandas` · `Data Visualisation`
+**Tech stack:** `Python` · `SQL` · `Pandas` · `Statistical Testing` · `Data Visualisation`
 
 ---
 
 ## 🚀 Featured Project
 
-### 📶 Mobile Data Consumption Intelligence System
+### 📶 Telecom Consumption Intelligence
 
-**Simulated Telecom Analytics Engagement | Data Science & Business Intelligence**
+**Simulated Telecom Analytics Engagement | Predictive Analytics & Business Intelligence**
 
-Developed an end-to-end analytics solution designed to analyse mobile data consumption, customer behaviour, revenue opportunities, and network demand.
+An end-to-end analytics application exploring mobile data consumption forecasting, customer usage behaviour, revenue opportunities and network demand.
 
-#### Key Outcomes
+**[Launch the interactive Streamlit dashboard](https://telecom-consumption-intelligence-7u9fclgabrv8tttvf2jpsx.streamlit.app/)** · **[View the source code](https://github.com/JmineSA/telecom-consumption-intelligence)**
 
-* 👥 Identified **573 high-value Revenue Drivers** with an average ARPU of approximately **R596** and average data consumption of **8.4 GB**.
-* 💰 Quantified approximately **R32.8K in potential revenue opportunity** from under-predicted customer data usage.
-* 📉 Identified approximately **R44.9K in estimated network over-allocation costs** associated with over-predicted demand.
-* 🌐 Found that forecasting error increased by **255.7% during network congestion**, highlighting the importance of congestion-aware demand forecasting.
-* 📊 Analysed customer segments, service usage, subscription plans, devices, and network types to identify opportunities for targeted bundles, upselling, and plan optimisation.
-* 🖥️ Built an interactive **Streamlit dashboard** to communicate customer, revenue, network, and predictive insights.
+#### Key findings
 
-**Tech Stack:** `Python` · `Pandas` · `NumPy` · `Scikit-learn` · `Gradient Boosting` · `Streamlit` · `Matplotlib` · `Seaborn` · `Plotly` · `Joblib`
+- **Forecasting performance:** Achieved a test-set **R² of 0.77**, with an MAE of **2.021 GB** and an RMSE of **3.379 GB**.
+- **Underprediction risk:** Approximately **54,539 test observations (57.9%)** were underpredicted, corresponding to an estimated **R7.34 million top-up revenue opportunity** under the project's assumptions.
+- **Overprediction risk:** Approximately **39,664 test observations (42.1%)** were overpredicted, corresponding to an estimated **R7.12 million in potential network over-allocation costs**.
+- **Consumption drivers:** The 30-day rolling average was strongly associated with predicted usage, with a correlation of approximately **0.866**.
+- **Network planning:** Forecast errors increased under congested network conditions, highlighting the importance of evaluating model performance across operating conditions.
+- **Decision support:** Developed an interactive Streamlit dashboard to explore consumption patterns, forecast performance, customer segments and potential business implications.
 
-> **Note:** This is a portfolio project using simulated telecom data. Revenue and cost opportunities are analytical estimates based on assumptions within the project.
+#### From predictions to decisions
+
+The project demonstrates how forecast errors can be translated into operational questions:
+
+- Where might actual consumption exceed predicted demand?
+- Where could demand be overestimated, leading to inefficient capacity allocation?
+- Which consumption patterns and network conditions deserve closer investigation?
+- How should forecasts be evaluated before they inform operational decisions?
+
+**Tech stack:** `Python` · `Pandas` · `NumPy` · `Scikit-learn` · `Gradient Boosting` · `Streamlit` · `Plotly` · `Matplotlib` · `Seaborn` · `Joblib`
+
+> **Data and financial assumptions:** This is a portfolio project built with simulated telecom data, not an engagement using a real telecom operator's production data. Revenue and network cost figures are model-based estimates, not verified revenue, realised savings or audited financial results. The evaluation metrics describe performance on the project's held-out test data.
 
 ---
 
 ## 🛠️ Technical Skills
 
-### 🤖 Machine Learning & Predictive Analytics
+### Machine Learning & Predictive Analytics
 
 `Regression` · `Classification` · `Time Series Forecasting` · `Gradient Boosting` · `XGBoost` · `Random Forest` · `LightGBM` · `Scikit-learn`
 
-### 📊 Data Analysis & Business Intelligence
+### Data Analysis & Business Intelligence
 
-`Pandas` · `NumPy` · `SQL` · `Customer Segmentation` · `Revenue Optimisation` · `Profitability Analysis` · `Forecasting`
+`Pandas` · `NumPy` · `SQL` · `Customer Segmentation` · `Revenue Analysis` · `Profitability Analysis` · `Exploratory Data Analysis`
 
-### ⚙️ Data Engineering
+### Data Engineering
 
 `Python` · `SQL` · `PySpark` · `Databricks` · `Feature Engineering` · `ETL Pipelines`
 
-### 🧪 Experimentation & Statistics
+### Experimentation & Statistics
 
-`A/B Testing` · `Hypothesis Testing` · `T-tests` · `Chi-Square Tests` · `Causal Inference Basics`
+`A/B Testing` · `Hypothesis Testing` · `T-tests` · `Chi-Square Tests` · `Statistical Analysis`
 
-### 📈 Visualisation & Deployment
+### Visualisation & Application Development
 
-`Power BI` · `Streamlit` · `Matplotlib` · `Seaborn` · `Plotly` · `Gradio`
+`Power BI` · `Streamlit` · `Matplotlib` · `Seaborn` · `Plotly` · `Gradio` · `REST APIs`
 
-### 🔄 MLOps
+### MLOps
 
-`MLflow` · `Model Versioning` · `Machine Learning Pipelines` · `Basic Model Monitoring`
+`MLflow` · `Experiment Tracking` · `Model Versioning` · `Machine Learning Pipelines` · `Model Evaluation`
 
 ---
 
 ## 📂 Featured Projects
 
-| Project                                 | Focus                                                         |
-| --------------------------------------- | ------------------------------------------------------------- |
-| 🎵 **Studio Intelligence AI**           | Revenue forecasting, demand forecasting and artist retention  |
-| 📶 **Telecom Consumption Intelligence** | Customer analytics, revenue optimisation and network planning |
-| 🥩 **Butcher Shop A/B Testing**         | Conversion optimisation and experimentation                   |
+| Project | Focus |
+|---|---|
+| 🎵 **Studio Intelligence AI** | Revenue forecasting, booking demand and customer retention |
+| 📶 **Telecom Consumption Intelligence** | Usage forecasting, prediction error analysis and network planning |
+| 🥩 **Butcher Shop A/B Testing** | Conversion optimisation, experimentation and sales analytics |
 
 ---
 
 ## 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/lesiba-kganyago-a39b302b0/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lesiba-kganyago-a39b302b0/)
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/JmineSA)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JmineSA)
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:lesibajmine@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lesibajmine@gmail.com)
 
 ---
 
 ### 💡 My Focus
 
-> **Using data and predictive analytics to turn customer behaviour, revenue patterns, and operational challenges into actionable business decisions.**
+> Turning data into decisions by combining analytical thinking, predictive modelling and business understanding.
 
-⭐ Feel free to explore my repositories and connect with me.
+I am interested in opportunities across **data science, data analytics and applied machine learning**, where I can contribute to practical business problems and continue developing end-to-end analytical systems.
+
+⭐ Explore my repositories to see how I approach data problems, evaluate models and translate findings into actionable insights.
