@@ -246,6 +246,8 @@ The project demonstrates how forecast errors can be translated into operational 
   <img src="assets/github-stats.svg" alt="GitHub statistics: total contributions, current and longest streak, public repositories, pull requests and top languages" width="100%"/>
   <br/><br/>
   <img src="assets/contributions.svg" alt="GitHub contribution graph for the last year" width="100%"/>
+  <br/><br/>
+  <img src="https://raw.githubusercontent.com/JmineSA/JmineSA/output/snake.svg" alt="Animated snake eating through my GitHub contribution graph" width="100%"/>
 </div>
 
 <img src="assets/divider.svg" width="100%" alt=""/>
