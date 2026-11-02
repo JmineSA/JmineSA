@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="230" viewBox="0 0 1200 230" role="img" aria-label="Repository card: JmineSA/telecom-consumption-intelligence, an end-to-end mobile data consumption forecasting and business intelligence project built with Python and Streamlit">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1220"/><stop offset="1" stop-color="#0e2a3a"/></linearGradient>
+<linearGradient id="l1" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#38bdf8" stop-opacity="0"/><stop offset="1" stop-color="#38bdf8"/></linearGradient>
+<linearGradient id="l2" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#22c55e" stop-opacity="0"/><stop offset="1" stop-color="#22c55e"/></linearGradient>
+<style>
+.a{opacity:0;animation:fi .9s ease-out forwards}@keyframes fi{to{opacity:1}}
+.ch{opacity:0;animation:fi .6s ease-out forwards}
+.glint{stroke-dasharray:9 91;animation:gl 5s linear infinite}@keyframes gl{to{stroke-dashoffset:-100}}
+.d1{stroke-dasharray:520;stroke-dashoffset:520;animation:dr 2.2s .5s ease-out forwards}
+.d2{stroke-dasharray:520;stroke-dashoffset:520;animation:dr 2.2s 1s ease-out forwards}
+@keyframes dr{to{stroke-dashoffset:0}}
+.pl{transform-box:fill-box;transform-origin:center;animation:p 2s 3s ease-out infinite}@keyframes p{from{transform:scale(1);opacity:.7}to{transform:scale(4);opacity:0}}
+</style></defs>
+<rect x="0.5" y="0.5" width="1199" height="229" rx="16" fill="url(#bg)" stroke="#1e2d45"/>
+<rect x="0.5" y="0.5" width="1199" height="229" rx="16" fill="none" stroke="#38bdf8" stroke-opacity="0.9" stroke-width="2" pathLength="100" class="glint"/>
+<g class="a">
+<path d="M48 40a5 5 0 0 1 5-5h20v26H53a5 5 0 0 0-5 5z M48 66a5 5 0 0 1 5-5h20v6H54" fill="none" stroke="#64748b" stroke-width="2" stroke-linejoin="round"/>
+<text x="90" y="58" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="26" font-weight="700" fill="#58a6ff"><tspan fill="#94a3b8" font-weight="500">JmineSA / </tspan>telecom-consumption-intelligence</text>
+<rect x="696" y="40" width="64" height="24" rx="12" fill="none" stroke="#475569"/><text x="728" y="57" text-anchor="middle" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="12.5" font-weight="600" fill="#94a3b8">Public</text>
+<text x="48" y="96" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="16" fill="#cbd5e1">End-to-end analytics application for mobile data consumption forecasting, customer usage</text>
+</g>
+<text class="a" x="48" y="112" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="16" fill="#cbd5e1" style="animation-delay:.2s">behaviour, revenue opportunities and network demand. Built on simulated telecom data.</text>
+<g class="ch" style="animation-delay:0.93s"><rect x="48" y="128" width="70" height="28" rx="14" fill="#38bdf8" fill-opacity="0.12" stroke="#38bdf8" stroke-opacity="0.45"/><text x="83" y="147" text-anchor="middle" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="13" font-weight="600" fill="#38bdf8">Python</text></g><g class="ch" style="animation-delay:0.99s"><rect x="127.6" y="128" width="92" height="28" rx="14" fill="#f87171" fill-opacity="0.12" stroke="#f87171" stroke-opacity="0.45"/><text x="174" y="147" text-anchor="middle" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="13" font-weight="600" fill="#f87171">Streamlit</text></g><g class="ch" style="animation-delay:1.05s"><rect x="230.0" y="128" width="153" height="28" rx="14" fill="#22c55e" fill-opacity="0.12" stroke="#22c55e" stroke-opacity="0.45"/><text x="307" y="147" text-anchor="middle" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="13" font-weight="600" fill="#22c55e">Gradient Boosting</text></g><g class="ch" style="animation-delay:1.16s"><rect x="393.2" y="128" width="108" height="28" rx="14" fill="#a78bfa" fill-opacity="0.12" stroke="#a78bfa" stroke-opacity="0.45"/><text x="447" y="147" text-anchor="middle" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="13" font-weight="600" fill="#a78bfa">Forecasting</text></g><g class="ch" style="animation-delay:1.24s"><rect x="510.79999999999995" y="128" width="146" height="28" rx="14" fill="#fbbf24" fill-opacity="0.12" stroke="#fbbf24" stroke-opacity="0.45"/><text x="584" y="147" text-anchor="middle" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="13" font-weight="600" fill="#fbbf24">Network Planning</text></g>
+<g class="a" style="animation-delay:1.3s">
+<circle cx="56" cy="190" r="6" fill="#3572A5"/><text x="70" y="195" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="14" fill="#e2e8f0">Python</text>
+<text x="122" y="195" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="14" fill="#94a3b8">·  R² 0.77 on held-out test data  ·  Interactive Streamlit dashboard</text>
+</g>
+<g aria-hidden="true">
+<g stroke="#1e2d45"><line x1="800" y1="60" x2="1140" y2="60"/><line x1="800" y1="105" x2="1140" y2="105"/><line x1="800" y1="150" x2="1140" y2="150"/><line x1="800" y1="195" x2="1140" y2="195"/></g>
+<path class="d1" d="M800 175 C850 150 880 165 920 135 S990 120 1030 100 S1100 80 1140 70" fill="none" stroke="url(#l1)" stroke-width="3" stroke-linecap="round"/>
+<path class="d2" d="M800 180 C850 160 885 150 925 140 S995 108 1035 104 S1100 74 1140 68" fill="none" stroke="url(#l2)" stroke-width="3" stroke-dasharray="520" stroke-linecap="round" opacity="0.9"/>
+<circle class="pl" cx="1140" cy="68" r="5" fill="#22c55e"/><circle cx="1140" cy="68" r="5" fill="#22c55e" class="a" style="animation-delay:3s"/>
+</g>
+</svg>

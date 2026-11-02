@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-label="GitHub statistics: contributions, streaks, repositories and top languages">
+<style>.a{opacity:0;animation:fi .9s ease-out forwards}@keyframes fi{to{opacity:1}}
+.bar{transform-box:fill-box;transform-origin:left;transform:scaleX(0);animation:g 1.2s cubic-bezier(.2,.7,.2,1) forwards}@keyframes g{to{transform:scaleX(1)}}
+.glow{animation:gl 3.5s ease-in-out infinite}@keyframes gl{50%{opacity:.55}}</style>
+<defs><linearGradient id="n" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#38bdf8"/><stop offset="1" stop-color="#22c55e"/></linearGradient></defs>
+<rect width="1200" height="280" rx="16" fill="#0b1220" stroke="#1e2d45"/>
+<g class="a" transform="translate(48,0)">
+<text x="0" y="46" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="13" font-weight="700" fill="#64748b" letter-spacing="1.5">TOTAL CONTRIBUTIONS</text>
+<text class="glow" x="0" y="130" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="68" font-weight="800" fill="url(#n)">–</text>
+<text x="0" y="158" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="14" fill="#94a3b8">in the last year</text>
+<text x="0" y="214" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="14" fill="#cbd5e1"><tspan font-weight="700" fill="#38bdf8">–</tspan> commits  ·  <tspan font-weight="700" fill="#f59e0b">–</tspan> PRs  ·  <tspan font-weight="700" fill="#a78bfa">–</tspan> issues</text>
+</g>
+<line x1="420" y1="40" x2="420" y2="240" stroke="#1e2d45"/>
+<g class="a" transform="translate(440,0)" style="animation-delay:.3s"><text x="0" y="46" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="13" font-weight="700" fill="#64748b" letter-spacing="1.5">STREAKS &amp; REPOS</text><text x="0" y="86" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="14" fill="#94a3b8">Current streak</text><text x="300" y="86" text-anchor="end" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="20" font-weight="700" fill="#22c55e">–</text><text x="0" y="126" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="14" fill="#94a3b8">Longest streak</text><text x="300" y="126" text-anchor="end" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="20" font-weight="700" fill="#38bdf8">–</text><text x="0" y="166" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="14" fill="#94a3b8">Public repositories</text><text x="300" y="166" text-anchor="end" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="20" font-weight="700" fill="#a78bfa">–</text><text x="0" y="206" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="14" fill="#94a3b8">Pull requests</text><text x="300" y="206" text-anchor="end" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="20" font-weight="700" fill="#f59e0b">–</text></g>
+<line x1="790" y1="40" x2="790" y2="240" stroke="#1e2d45"/>
+<g class="a" transform="translate(830,0)" style="animation-delay:.6s"><text x="0" y="46" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="13" font-weight="700" fill="#64748b" letter-spacing="1.5">TOP LANGUAGES</text><text x="0" y="90" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="14" fill="#64748b">Syncing from GitHub…</text></g>
+</svg>

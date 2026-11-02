@@ -2,9 +2,7 @@
 
 <img src="assets/header.svg" alt="Lesiba Kganyago — Data Scientist, Predictive Analytics, Business Intelligence" width="100%"/>
 
-<a href="https://github.com/JmineSA">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1400&color=38BDF8&center=true&vCenter=true&width=760&height=40&lines=Forecasting+revenue%2C+demand+and+churn;Evaluating+models+beyond+the+headline+metric;Translating+prediction+errors+into+business+decisions;Building+end-to-end+analytics+applications" alt="Typing animation" />
-</a>
+<img src="assets/tagline.svg" alt="Forecasting revenue, demand and churn. Evaluating models beyond the headline metric. Translating prediction errors into business decisions. Building end-to-end analytics applications." width="100%"/>
 
 <br/>
 
@@ -214,7 +212,7 @@ The project demonstrates how forecast errors can be translated into operational 
 
 <div align="center">
 <a href="https://github.com/JmineSA/telecom-consumption-intelligence">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JmineSA&repo=telecom-consumption-intelligence&theme=tokyonight&hide_border=true&bg_color=0b1220" alt="Telecom Consumption Intelligence repository card"/>
+  <img src="assets/repo-card.svg" alt="Repository card: JmineSA/telecom-consumption-intelligence — end-to-end mobile data consumption forecasting and business intelligence project" width="100%"/>
 </a>
 </div>
 
@@ -236,73 +234,18 @@ The project demonstrates how forecast errors can be translated into operational 
 
 <br/>
 
-<details open>
-<summary><b>Machine Learning & Predictive Analytics</b></summary>
-
-<br/>
-
-`Regression` · `Classification` · `Time Series Forecasting` · `Gradient Boosting` · `XGBoost` · `Random Forest` · `LightGBM` · `Scikit-learn`
-
-</details>
-
-<details>
-<summary><b>Data Analysis & Business Intelligence</b></summary>
-
-<br/>
-
-`Pandas` · `NumPy` · `SQL` · `Customer Segmentation` · `Revenue Analysis` · `Profitability Analysis` · `Exploratory Data Analysis`
-
-</details>
-
-<details>
-<summary><b>Data Engineering</b></summary>
-
-<br/>
-
-`Python` · `SQL` · `PySpark` · `Databricks` · `Feature Engineering` · `ETL Pipelines`
-
-</details>
-
-<details>
-<summary><b>Experimentation & Statistics</b></summary>
-
-<br/>
-
-`A/B Testing` · `Hypothesis Testing` · `T-tests` · `Chi-Square Tests` · `Statistical Analysis`
-
-</details>
-
-<details>
-<summary><b>Visualisation & Application Development</b></summary>
-
-<br/>
-
-`Power BI` · `Streamlit` · `Matplotlib` · `Seaborn` · `Plotly` · `Gradio` · `REST APIs`
-
-</details>
-
-<details>
-<summary><b>MLOps</b></summary>
-
-<br/>
-
-`MLflow` · `Experiment Tracking` · `Model Versioning` · `Machine Learning Pipelines` · `Model Evaluation`
-
-</details>
+<div align="center">
+  <img src="assets/skills.svg" alt="Technical skills grouped by area: machine learning and predictive analytics (regression, classification, time series forecasting, gradient boosting, XGBoost, random forest, LightGBM, scikit-learn); data analysis and business intelligence (pandas, NumPy, SQL, customer segmentation, revenue and profitability analysis, exploratory data analysis); data engineering (Python, SQL, PySpark, Databricks, feature engineering, ETL pipelines); experimentation and statistics (A/B testing, hypothesis testing, t-tests, chi-square tests, statistical analysis); visualisation and application development (Power BI, Streamlit, Matplotlib, Seaborn, Plotly, Gradio, REST APIs); MLOps (MLflow, experiment tracking, model versioning, machine learning pipelines, model evaluation)" width="100%"/>
+</div>
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
 ## GitHub Activity
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=JmineSA&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0b1220" alt="GitHub stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JmineSA&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b1220" alt="Most used languages"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=JmineSA&theme=tokyonight&hide_border=true&background=0b1220" alt="GitHub contribution streak"/>
-
+  <img src="assets/github-stats.svg" alt="GitHub statistics: total contributions, current and longest streak, public repositories, pull requests and top languages" width="100%"/>
+  <br/><br/>
+  <img src="assets/contributions.svg" alt="GitHub contribution graph for the last year" width="100%"/>
 </div>
 
 <img src="assets/divider.svg" width="100%" alt=""/>
