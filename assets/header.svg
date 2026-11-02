@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Lesiba Kganyago, Data Scientist">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1220"/><stop offset="0.6" stop-color="#10233a"/><stop offset="1" stop-color="#0c3a4a"/></linearGradient>
+<linearGradient id="ln" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#38bdf8" stop-opacity="0"/><stop offset="0.3" stop-color="#38bdf8"/><stop offset="1" stop-color="#22c55e"/></linearGradient>
+<linearGradient id="fill" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#38bdf8" stop-opacity="0.25"/><stop offset="1" stop-color="#38bdf8" stop-opacity="0"/></linearGradient>
+<linearGradient id="mf" x1="0" y1="0" x2="1" y2="0"><stop offset="0.55" stop-color="#fff"/><stop offset="0.97" stop-color="#fff" stop-opacity="0.15"/></linearGradient><mask id="am"><rect width="1200" height="300" fill="url(#mf)"/></mask>
+<pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.2" fill="#94a3b8" opacity="0.18"/></pattern>
+<style>
+.t1{opacity:0;animation:up .9s .2s ease-out forwards}
+.t2{opacity:0;animation:up .9s .5s ease-out forwards}
+.t3{opacity:0;animation:up .9s .8s ease-out forwards}
+.chip{opacity:0;animation:up .8s ease-out forwards}
+@keyframes up{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+.draw{stroke-dasharray:1400;stroke-dashoffset:1400;animation:dr 2.6s .4s ease-out forwards}
+@keyframes dr{to{stroke-dashoffset:0}}
+.area{opacity:0;animation:fi 1.2s 2s ease-out forwards}
+@keyframes fi{to{opacity:1}}
+.pulse{transform-box:fill-box;transform-origin:center;animation:pl 2.2s 3s ease-out infinite}
+@keyframes pl{0%{transform:scale(1);opacity:.7}100%{transform:scale(4);opacity:0}}
+.orb{animation:fl 9s ease-in-out infinite alternate}
+@keyframes fl{from{transform:translate(0,0)}to{transform:translate(40px,-18px)}}
+</style>
+</defs>
+<rect width="1200" height="300" fill="url(#bg)"/>
+<rect width="1200" height="300" fill="url(#dots)"/>
+<circle class="orb" cx="980" cy="60" r="150" fill="#38bdf8" opacity="0.07"/>
+<circle class="orb" cx="1120" cy="260" r="120" fill="#22c55e" opacity="0.06" style="animation-delay:-4s"/>
+<path class="area" mask="url(#am)" d="M640 258 L710 248 L780 224 L850 234 L920 182 L990 192 L1060 124 L1130 70 L1120 300 L560 300 Z" fill="url(#fill)"/>
+<path class="draw" d="M640 258 L710 248 L780 224 L850 234 L920 182 L990 192 L1060 124 L1130 70" fill="none" stroke="url(#ln)" stroke-width="3.5" stroke-linejoin="round" stroke-linecap="round"/>
+<circle class="pulse" cx="1130" cy="70" r="6" fill="#22c55e"/>
+<circle cx="1130" cy="70" r="6" fill="#22c55e" class="area"/>
+<text class="t1" x="70" y="118" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="58" font-weight="700" fill="#f8fafc" letter-spacing="-1">Lesiba Kganyago</text>
+<text class="t2" x="72" y="166" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="23" fill="#38bdf8" font-weight="600" letter-spacing="0.5">Data Scientist  ·  Predictive Analytics  ·  Business Intelligence</text>
+<text class="t3" x="72" y="204" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="16" fill="#94a3b8">Connecting customer behaviour, revenue patterns and operations to business decisions.</text>
+<g font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="13" font-weight="600">
+<g class="chip" style="animation-delay:1.1s"><rect x="72" y="234" width="112" height="30" rx="15" fill="#38bdf8" fill-opacity="0.12" stroke="#38bdf8" stroke-opacity="0.5"/><text x="128" y="254" text-anchor="middle" fill="#7dd3fc">Forecasting</text></g>
+<g class="chip" style="animation-delay:1.25s"><rect x="196" y="234" width="112" height="30" rx="15" fill="#38bdf8" fill-opacity="0.12" stroke="#38bdf8" stroke-opacity="0.5"/><text x="252" y="254" text-anchor="middle" fill="#7dd3fc">Retention</text></g>
+<g class="chip" style="animation-delay:1.4s"><rect x="320" y="234" width="136" height="30" rx="15" fill="#38bdf8" fill-opacity="0.12" stroke="#38bdf8" stroke-opacity="0.5"/><text x="388" y="254" text-anchor="middle" fill="#7dd3fc">Experimentation</text></g>
+<g class="chip" style="animation-delay:1.55s"><rect x="468" y="234" width="76" height="30" rx="15" fill="#22c55e" fill-opacity="0.12" stroke="#22c55e" stroke-opacity="0.5"/><text x="506" y="254" text-anchor="middle" fill="#86efac">MLOps</text></g>
+</g>
+</svg>
