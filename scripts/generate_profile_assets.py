@@ -113,7 +113,7 @@ def render_stats(s):
 <rect x="0" y="{y + 8}" width="320" height="8" rx="4" fill="#14223a"/>
 <rect class="bar" x="0" y="{y + 8}" width="{max(6, 320 * pct / 100):.0f}" height="8" rx="4" fill="{col}" style="animation-delay:{0.5 + i * 0.15:.2f}s"/>'''
     else:
-        bars = f'<text x="0" y="90" {SANS} font-size="14" fill="#64748b">Syncing from GitHub…</text>'
+        bars = f'<text x="0" y="90" {SANS} font-size="14" fill="#64748b">Waiting for first refresh</text>'
 
     def row(y, label, val, col):
         return f'<text x="0" y="{y}" {SANS} font-size="14" fill="#94a3b8">{label}</text><text x="300" y="{y}" text-anchor="end" {SANS} font-size="20" font-weight="700" fill="{col}">{val}</text>'
@@ -181,7 +181,7 @@ def empty_weeks():
 
 if __name__ == "__main__":
     if "--empty" in sys.argv:
-        write("contributions.svg", render_heatmap(empty_weeks(), 0).replace("0 contributions in the last year", "Syncing live from GitHub…"))
+        write("contributions.svg", render_heatmap(empty_weeks(), 0).replace("0 contributions in the last year", "Waiting for first refresh: run the “Update profile graphics” workflow"))
         write("github-stats.svg", render_stats(None))
     else:
         weeks, stats = build(fetch())
