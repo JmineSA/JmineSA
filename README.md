@@ -18,6 +18,10 @@
 
 </div>
 
+<div align="center">
+  <img src="assets/terminal.svg" alt="Terminal intro: Lesiba Kganyago, Data Scientist in South Africa, focused on revenue forecasting, retention analytics, demand planning and decision-support systems" width="100%"/>
+</div>
+
 <img src="assets/divider.svg" width="100%" alt=""/>
 
 ## About
@@ -67,6 +71,12 @@ My focus is on practical systems that go beyond model performance: identifying o
 <img src="assets/divider.svg" width="100%" alt=""/>
 
 ## Experience
+
+<div align="center">
+  <img src="assets/timeline.svg" alt="Career timeline: Local Butcher Shop 2024, Studio Intelligence AI 2024 to 2025, Telecom Consumption Intelligence portfolio project 2026" width="100%"/>
+</div>
+
+<br/>
 
 > Expand a role to see what I built, the measurable outcomes and the stack behind it.
 
@@ -134,6 +144,10 @@ An end-to-end analytics application exploring mobile data consumption forecastin
 |:---:|:---:|:---:|:---:|
 | **0.77** | **2.021 GB** | **3.379 GB** | **≈ 0.866** |
 
+<br/>
+
+<img src="assets/telecom-insights.svg" alt="Telecom project results: 57.9% of test observations underpredicted and 42.1% overpredicted; estimated R7.34 million top-up revenue opportunity versus R7.12 million over-allocation cost; 0.866 correlation with the 30-day rolling average" width="100%"/>
+
 </div>
 
 <details open>
@@ -197,6 +211,14 @@ The project demonstrates how forecast errors can be translated into operational 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
 ## Project Portfolio
+
+<div align="center">
+<a href="https://github.com/JmineSA/telecom-consumption-intelligence">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JmineSA&repo=telecom-consumption-intelligence&theme=tokyonight&hide_border=true&bg_color=0b1220" alt="Telecom Consumption Intelligence repository card"/>
+</a>
+</div>
+
+<br/>
 
 | Project | Focus |
 |---|---|

@@ -17,6 +17,7 @@
 @keyframes fi{to{opacity:1}}
 .pulse{transform-box:fill-box;transform-origin:center;animation:pl 2.2s 3s ease-out infinite}
 @keyframes pl{0%{transform:scale(1);opacity:.7}100%{transform:scale(4);opacity:0}}
+.pulse2{transform-box:fill-box;transform-origin:center;animation:pl 2s ease-out infinite}
 .orb{animation:fl 9s ease-in-out infinite alternate}
 @keyframes fl{from{transform:translate(0,0)}to{transform:translate(40px,-18px)}}
 </style>
@@ -29,6 +30,7 @@
 <path class="draw" d="M640 258 L710 248 L780 224 L850 234 L920 182 L990 192 L1060 124 L1130 70" fill="none" stroke="url(#ln)" stroke-width="3.5" stroke-linejoin="round" stroke-linecap="round"/>
 <circle class="pulse" cx="1130" cy="70" r="6" fill="#22c55e"/>
 <circle cx="1130" cy="70" r="6" fill="#22c55e" class="area"/>
+<g class="t1" style="animation-delay:.05s"><rect x="72" y="36" width="318" height="30" rx="15" fill="#22c55e" fill-opacity="0.10" stroke="#22c55e" stroke-opacity="0.45"/><circle class="pulse2" cx="92" cy="51" r="5" fill="#22c55e"/><circle cx="92" cy="51" r="5" fill="#22c55e"/><text x="108" y="56" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="13.5" font-weight="600" fill="#86efac">Open to data science opportunities</text></g>
 <text class="t1" x="70" y="118" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="58" font-weight="700" fill="#f8fafc" letter-spacing="-1">Lesiba Kganyago</text>
 <text class="t2" x="72" y="166" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="23" fill="#38bdf8" font-weight="600" letter-spacing="0.5">Data Scientist  ·  Predictive Analytics  ·  Business Intelligence</text>
 <text class="t3" x="72" y="204" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="16" fill="#94a3b8">Connecting customer behaviour, revenue patterns and operations to business decisions.</text>

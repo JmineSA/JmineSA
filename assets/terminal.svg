@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Terminal: Lesiba Kganyago, Data Scientist in South Africa. Focus: revenue forecasting, retention analytics, demand planning, decision-support systems. A model is only useful if it changes a decision.">
+<style>.l0{transform-box:fill-box;transform-origin:left;transform:scaleX(0);animation:rv 0.50s 0.60s steps(6,end) forwards}.l1{transform-box:fill-box;transform-origin:left;transform:scaleX(0);animation:rv 1.65s 1.45s steps(47,end) forwards}.l2{transform-box:fill-box;transform-origin:left;transform:scaleX(0);animation:rv 0.50s 3.45s steps(13,end) forwards}.l3{transform-box:fill-box;transform-origin:left;transform:scaleX(0);animation:rv 3.01s 4.29s steps(86,end) forwards}.l4{transform-box:fill-box;transform-origin:left;transform:scaleX(0);animation:rv 0.60s 7.66s steps(17,end) forwards}.l5{transform-box:fill-box;transform-origin:left;transform:scaleX(0);animation:rv 1.75s 8.60s steps(50,end) forwards}@keyframes rv{to{transform:scaleX(1)}}
+.cur{animation:bl 1s steps(1) infinite}@keyframes bl{50%{opacity:0}}</style>
+<rect x="0.5" y="0.5" width="1199" height="319" rx="14" fill="#0b1220" stroke="#1e2d45"/>
+<path d="M0.5 14.5a14 14 0 0 1 14-14h1171a14 14 0 0 1 14 14V44H0.5Z" fill="#111c30"/>
+<circle cx="28" cy="22" r="6" fill="#ef4444"/><circle cx="50" cy="22" r="6" fill="#f59e0b"/><circle cx="72" cy="22" r="6" fill="#22c55e"/>
+<text x="600" y="27" text-anchor="middle" font-family="'Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="12.5" fill="#64748b">lesiba@portfolio: ~</text>
+<g><text x="40" y="96" font-family="'Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="15" font-weight="700" fill="#22c55e">$</text>
+<clipPath id="c0"><rect class="l0" x="64" y="76" width="76" height="32"/></clipPath>
+<text x="64" y="96" font-family="'Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="15" fill="#e2e8f0" clip-path="url(#c0)">whoami</text></g><g><text x="40" y="130" font-family="'Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="15" font-weight="700" fill="#e2e8f0">></text>
+<clipPath id="c1"><rect class="l1" x="64" y="110" width="462" height="32"/></clipPath>
+<text x="64" y="130" font-family="'Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="15" fill="#7dd3fc" clip-path="url(#c1)">Lesiba Kganyago | Data Scientist | South Africa</text></g><g><text x="40" y="164" font-family="'Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="15" font-weight="700" fill="#22c55e">$</text>
+<clipPath id="c2"><rect class="l2" x="64" y="144" width="142" height="32"/></clipPath>
+<text x="64" y="164" font-family="'Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="15" fill="#e2e8f0" clip-path="url(#c2)">cat focus.txt</text></g><g><text x="40" y="198" font-family="'Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="15" font-weight="700" fill="#e2e8f0">></text>
+<clipPath id="c3"><rect class="l3" x="64" y="178" width="828" height="32"/></clipPath>
+<text x="64" y="198" font-family="'Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="15" fill="#7dd3fc" clip-path="url(#c3)">Revenue forecasting | Retention analytics | Demand planning | Decision-support systems</text></g><g><text x="40" y="232" font-family="'Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="15" font-weight="700" fill="#22c55e">$</text>
+<clipPath id="c4"><rect class="l4" x="64" y="212" width="180" height="32"/></clipPath>
+<text x="64" y="232" font-family="'Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="15" fill="#e2e8f0" clip-path="url(#c4)">python mindset.py</text></g><g><text x="40" y="266" font-family="'Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="15" font-weight="700" fill="#e2e8f0">></text>
+<clipPath id="c5"><rect class="l5" x="64" y="246" width="490" height="32"/></clipPath>
+<text x="64" y="266" font-family="'Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="15" fill="#fbbf24" clip-path="url(#c5)">"A model is only useful if it changes a decision."</text></g>
+<text x="40" y="300" font-family="'Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="15" font-weight="700" fill="#22c55e">$</text>
+<rect class="cur" x="64" y="286" width="9" height="18" fill="#38bdf8"/>
+</svg>
