@@ -1,0 +1,35 @@
+name: Generate contribution snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"      # refresh twice a day
+  workflow_dispatch:            # run manually from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  snake:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate snake animation
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake.svg?color_snake=38bdf8&color_dots=#122033,#0e4429,#006d32,#26a641,#39d353
+
+      - name: Publish to the output branch
+        run: |
+          cp dist/snake.svg /tmp/snake.svg
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout --orphan output
+          git rm -rf --quiet . || true
+          git clean -fdxq
+          cp /tmp/snake.svg ./snake.svg
+          git add snake.svg
+          git commit -m "chore: refresh contribution snake"
+          git push -f origin output
